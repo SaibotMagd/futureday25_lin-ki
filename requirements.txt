@@ -2,3 +2,6 @@ nibabel
 seaborn
 matplotlib
 itk-elastix
+napari
+scikit-image
+qtpy

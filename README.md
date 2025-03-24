@@ -31,9 +31,9 @@ The workshop is divided into the following segments:
 ## **Getting Started**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/workshop-repository.git
+   git clone https://github.com/SaibotMagd/futureday25_lin-ki.git
    ```
-2. Access the [Binder link](https://mybinder.org) to run the Jupyter Notebook without local installations.
+2. Access the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SaibotMagd/futureday25_lin-ki.git/HEAD?urlpath=%2Fdoc%2Ftree%2Flin-ki_workshop_base.ipynb) to run the Jupyter Notebook without local installations.
 3. Install required dependencies:
    ```bash
    pip install -r requirements.txt
@@ -63,7 +63,7 @@ Feel free to open a pull request or submit feedback.
 ---
 
 ## **Contact**
-For inquiries or collaboration ideas, reach out to [your email/contact details].
+For inquiries or collaboration ideas, reach out to www.lin-magdeburg.de.
 
 ---
 
