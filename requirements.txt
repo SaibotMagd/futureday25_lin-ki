@@ -1,0 +1,4 @@
+nibabel
+seaborn
+matplotlib
+itk-elastix
